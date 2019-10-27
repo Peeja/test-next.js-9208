@@ -1,0 +1,19 @@
+{
+  "name": "test-next.js-9208",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Petra Jaros <peeja@peeja.com>",
+  "license": "MIT",
+  "scripts": {
+    "demonstrate": "ts-node index.ts"
+  },
+  "dependencies": {
+    "next": "^9.1.1",
+    "react": "^16.11.0",
+    "react-dom": "^16.11.0"
+  },
+  "devDependencies": {
+    "ts-node": "^8.4.1",
+    "typescript": "^3.6.4"
+  }
+}
